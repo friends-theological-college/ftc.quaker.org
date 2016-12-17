@@ -1,0 +1,15 @@
+body 	{font-size: small;
+	color: black; 
+	font-family: arial, sans-serif;}
+
+p 	{margin: 10px}
+
+H1 {font-family: arial, sans-serif; text-align: center; font-size: x-large}
+H2 {font-family: arial, sans-serif; text-align: center; font-size: large}
+H3 {font-family: arial, sans-serif; text-align: center; font-size: medium}
+H4 {font-family: arial, sans-serif; text-align: center; font-size: small}
+
+a:link {color: black;}
+a:visited {color: black;}
+a:active {color: blue;}
+a:hover {color: blue;}
